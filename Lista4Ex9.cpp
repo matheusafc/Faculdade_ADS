@@ -4,7 +4,7 @@
 
 int main()
 {
-	setlocale(LC_ALL,"Portuguese");
+	setlocale(LC_ALL,"");
 	int opcao;
 	float n1,n2,res;
 	char reset;
